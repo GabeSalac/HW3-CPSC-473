@@ -2,7 +2,7 @@
 CoffeeRun
 
 ## Requirements
--browser-sync
+- browser-sync
 
 ## To Execute
 ```
